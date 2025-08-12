@@ -20,15 +20,15 @@ twitter_username = ""
 
 ### What is the dress code? / What should I wear?
 
-The dress code is formal. Please wear long dresses and suits!
+The dress code is formal. Please wear long dresses and suits.
 
 ### Can I bring a plus one?
 
-Please chat with either of us (Michelle or Richard) if you would like to bring a plus one! Everyone listed on your invitation is invited.
+Please chat with either of us (Michelle or Richard) if you would like to bring a plus one. Everyone listed on your invitation is invited.
 
 ### Are children allowed?
 
-Yes! Your kids are welcome if you'd like them to attend any festivities.
+Yes, your kids are welcome if you'd like them to attend any festivities.
 
 ### Can I take photos? / Where should I send my photos?
 
@@ -36,21 +36,21 @@ Yes please! We will set up an app / drive link to send any pictures or videos yo
 
 ### What is your registry / gift list?
 
-We would like monetary gifts instead of a registry! This is typical of Vietnamese weddings.
+We would like monetary gifts instead of a registry. This is typical of Vietnamese weddings.
 
-### Where are the invitations?
+### Where are the invitations / RSVP?
 
-We will send invitations next month!
+We will send invitations and post an RSVP link next month.
 
 ### When should I return my RSVP?
 
-Please let us know by early December if you are able to attend our wedding!
+Please let us know by early December if you are able to attend our wedding.
 
 ## Travel & Transportation:
 
 ### How can I get to the wedding?
 
-The wedding is located in the Dallas-Fort Worth Metroplex of Texas. If you are flying, the nearest airport is Dallas Fort Worth International Airport (DFW). Please contact us if you are having trouble arranging transportation! Unfortunately, nothing is walkable. 
+The wedding is located in the Dallas-Fort Worth Metroplex of Texas. If you are flying, the nearest airport is Dallas Fort Worth International Airport (DFW). Please contact us if you are having trouble arranging transportation. Unfortunately, nothing is walkable. 
 
 ### When should I arrive?
 
@@ -62,7 +62,7 @@ All events are indoors. The ceremony will be held in a Catholic church, while th
 
 ### What is the parking situation? 
 
-Parking is free and large for all venues! (Both are located in Texas suburbs.)
+Parking is free and large for all venues. (This is a Texas suburb wedding.)
 
 ## Food & Drink:
 
@@ -78,7 +78,7 @@ Yes.
 
 ### Are you having a full Catholic wedding mass?
 
-Yes! This is an hour long ceremony which includes readings, singing, and communion. 
+Yes: this will include readings, singing, and communion. 
 
 ### Can I take the communion if I am not Catholic?
 
@@ -91,8 +91,8 @@ Yes! Richard is Venezuelan, and Michelle is Vietnamese. Both of us grew up in th
 - Typical of Vietnamese weddings, we will accept monetary gifts instead of an American wedding registry. 
 - For the Catholic ceremony, we are incorporating two Vietnamese Catholic traditions: (1) flowers to the mothers, and (2) the old and new testament readings will be done by the bride and groom themselves.
 - For the dinner reception, we will start with Venezuelan and Latin American appetizers and desserts. For the meal, we are having a full Vietnamese dinner course. 
-- During the dinner reception, the bride, groom, and their respective parents will walk table to table to greet guests, thank y'all for attending, and toast. This is a Vietnamese tradition known as Chao Ban ("table visit"). Typically, a member of the table will represent the table by leading the toast! Prepare yourself -- you could be giving the toast speech!
-- During the dance, we will incoporate the Hora Loca ("crazy hour"), where we will play high-energy music and bring out props for guests to dance with!
+- During the dinner reception, the bride, groom, and their respective parents will walk table to table to greet guests, thank y'all for attending, and toast. This is a Vietnamese tradition known as Chao Ban ("table visit"). Typically, a member of the table will represent the table by leading the toast. Prepare yourself -- you could be giving the toast speech!
+- During the dance, we will incoporate the Hora Loca ("crazy hour"), where we will play high-energy music and bring out props for guests to dance with.
 
 ## Contact Us:
 
