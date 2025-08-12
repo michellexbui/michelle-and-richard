@@ -5,7 +5,7 @@ description = "For any questions you might have!"
 # Dates
 date = "2025-05-24T10:23:36+02:00"
 lastmod = "2025-05-29T09:16:51+02:00"
-show_date = true
+show_date = false
 
 # Publication Control
 draft = false
@@ -29,6 +29,10 @@ Please chat with either of us (Michelle or Richard) if you would like to bring a
 ### Are children allowed?
 
 Yes! Your kids are welcome if you'd like them to attend any festivities.
+
+### Can I take photos? / Where should I send my photos?
+
+Yes please! We will set up an app / drive link to send any pictures or videos you took on the side.
 
 ### What is your registry / gift list?
 
