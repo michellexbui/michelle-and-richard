@@ -35,8 +35,8 @@
 #  weight = 100
 
 [[main_secondary]]
-  name = "Policy"
-  url = "/policy/"
+  name = "Frequently Asked Questions"
+  url = "/faq/"
   weight = 110
 
 # Main Social
