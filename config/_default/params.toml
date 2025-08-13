@@ -11,7 +11,7 @@ pseudologo_enabled = true
 established_year = "2025"
 # A motto or tagline displayed in the footer. Use a backslash (\) to escape
 # quotes.
-motto = "\"Unleash your words\""
+motto = ""
 
 
 # Integrations
@@ -51,8 +51,8 @@ seo_twitter_username = "" # Fills `twitter:site` in twitter-cards
 # Note: These settings control the Web App Manifest, which allows visitors to 
 #add your site to their mobile home screen with a custom icon and splash screen.
 seo_manifest_short_name  = "" # Short name for the home screen icon label.
-seo_manifest_theme_color = "" # Title bar color. Ex: "#ffffff"
-seo_manifest_bg_color    = "" # Splash screen background color. Ex: "#ffffff"
+seo_manifest_theme_color = "#6b8d53" # Title bar color. Ex: "#ffffff"
+seo_manifest_bg_color    = "#6b8d53" # Splash screen background color. Ex: "#ffffff"
 
 # Development Settings
 # ---------------------
