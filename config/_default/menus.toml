@@ -24,9 +24,14 @@
   weight = 100
 
 [[main]]        
-  name = "Full Schedule"
-  url = "/fullschedule/"
+  name = "Wedding Ceremony & Reception"
+  url = "/schedule/"
   weight = 110 
+
+[[main]]
+  name = "Tea Ceremony"
+  url = "/teaceremony/"
+  weight = 110
 
 # Main Secondary
 #[[main_secondary]]
@@ -34,13 +39,18 @@
 #  url = "/about/"
 #  weight = 100
 
-[[main]]
-  name = "Locations"
-  url = "/locations/"
+[[main_secondary]]
+  name = "About the Wedding Party"
+  url = "/weddingparty/"
   weight = 110
 
 [[main_secondary]]
-  name = "Frequently Asked Questions"
+  name = "Travel"
+  url = "/travel/"
+  weight = 110
+
+[[main_secondary]]
+  name = "Q & A"
   url = "/faq/"
   weight = 110
 

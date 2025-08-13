@@ -1,7 +1,7 @@
 +++
 # Content Identity
-title = "Our Story"
-description = "Read about our love story!"
+title = "Tea Ceremony"
+description = "Friday December 19, 2025"
 # Dates
 date = "2025-05-24T10:23:36+02:00"
 lastmod = "2025-05-29T09:16:51+02:00"
@@ -16,6 +16,13 @@ seo_type = "WebPage"
 seo_image = ""
 twitter_username = ""
 +++
+## Friday December 19, 2025
+
+The Vu Quy, also known as the Vietnamese tea ceremony, is a traditional event to celebrate the joining of the two families. The event is for family only.
+
+### Tea Ceremony
+
+### Church Rehearsal
 
 ## Contact Us:
 

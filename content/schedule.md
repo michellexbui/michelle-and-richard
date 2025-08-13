@@ -1,7 +1,7 @@
 +++
 # Content Identity
-title = "Our Story"
-description = "Read about our love story!"
+title = "Wedding Day Schedule"
+description = "Saturday December 20, 2025"
 # Dates
 date = "2025-05-24T10:23:36+02:00"
 lastmod = "2025-05-29T09:16:51+02:00"
@@ -16,6 +16,11 @@ seo_type = "WebPage"
 seo_image = ""
 twitter_username = ""
 +++
+## Saturday December 20, 2025
+
+### Wedding Ceremony
+
+### Wedding Reception
 
 ## Contact Us:
 

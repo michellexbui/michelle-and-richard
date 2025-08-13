@@ -1,7 +1,7 @@
 +++
 # Content Identity
-title = "Our Story"
-description = "Read about our love story!"
+title = "Travel"
+description = ""
 # Dates
 date = "2025-05-24T10:23:36+02:00"
 lastmod = "2025-05-29T09:16:51+02:00"
@@ -16,6 +16,12 @@ seo_type = "WebPage"
 seo_image = ""
 twitter_username = ""
 +++
+
+## Arriving in the DFW Metroplex:
+
+## Ceremony Venue:
+
+## Reception Venue:
 
 ## Contact Us:
 
