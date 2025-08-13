@@ -4,7 +4,7 @@
 # Documentation: https://alpha.oxypteros.com/docs/config/hugo-toml
 
 baseURL = "https://michelle-and-richard.pages.dev" # Replace with production URL
-title = "Michelle & Richard's Wedding"
+title = "Michelle X. Bui & Richard D. Schargel"
 theme = "alpha"
 #timeZone = "Europe/Rome"
 

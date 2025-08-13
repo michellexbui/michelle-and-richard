@@ -1,7 +1,7 @@
 +++
 # Content Identity
 title = "Home Page"
-description = "Home page description, a must for SEO and social shares"
+description = "Main page, which includes a short summary of the wedding day"
 
 # Dates
 date = "2025-05-20T21:32:02+02:00"
@@ -28,18 +28,13 @@ Other than your text in Alpha everything else is **shortcodes**!
 
 {{< hero 
   TITLE="we're getting married!" 
-  SUBTITLE="Michelle X. Bui & Richard D. Schargel" 
-  BTN-TEXT="Our Story" 
-  BTN-LINK="https://alpha.oxypteros.com/docs/" 
-  BTN-LABEL="Read our love story." 
-  BTN-TEXT="Full Schedule: Dec 19-20" 
-  BTN-LINK="https://alpha.oxypteros.com/docs/" 
-  BTN-LABEL="Here's our full schedule." 
-  BTN-TEXT="Location: Dallas - Fort Worth, Texas" 
-  BTN-LINK="https://alpha.oxypteros.com/docs/" 
-  BTN-LABEL="Information about our venues." 
+  SUBTITLE="December 20, 2025 | Dallas - Fort Worth, Texas" 
+  LINK-TEXT="Schedule" 
+  LINK="https://michelle-and-richard.pages.dev/schedule/" 
+  LINK-LABEL="Here's our full schedule." 
+
   BTN-TEXT="RSVP" 
-  BTN-LINK="https://alpha.oxypteros.com/docs/" 
+  BTN-LINK="https://michelle-and-richard.pages.dev/rsvp/" 
   BTN-LABEL="RSVP form coming soon" 
 >}}
 
