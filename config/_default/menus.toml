@@ -24,8 +24,8 @@
   weight = 100
 
 [[main]]        
-  name = "Blog"
-  url = "/blog/"
+  name = "Full Schedule"
+  url = "/fullschedule/"
   weight = 110 
 
 # Main Secondary
@@ -33,6 +33,11 @@
 #  name = "About Me"
 #  url = "/about/"
 #  weight = 100
+
+[[main]]
+  name = "Locations"
+  url = "/locations/"
+  weight = 110
 
 [[main_secondary]]
   name = "Frequently Asked Questions"
@@ -42,14 +47,14 @@
 # Main Social
 [[main_social]]
   name = "Github"
-  url = "https://github.com/oxypteros/alpha/"
+  url = "https://github.com/michellexbui/michelle-and-richard/"
   pre = "#github"  # Renders a specific icon. See docs for available icons.
   weight = 100
 
 # Footer Menu
 [[footer]]
-  name = "Policy"
-  url = "/policy/"
+  name = "Frequently Asked Questions"
+  url = "/faq/"
   weight = 100
 
 # Footer Social
@@ -61,7 +66,7 @@
 
 [[footer_social]]
   name = "Github"
-  url = "https://github.com/oxypteros/alpha/"
+  url = "https://github.com/michellexbui/michelle-and-richard/"
   pre = "#github"  # Renders a specific icon. See docs for available icons.
   weight = 110
 
